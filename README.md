@@ -1,6 +1,11 @@
-### Hi there, my name is Alban, I'm a French web full stack developper 👋
+<!-- center the title -->
+<h1 align="center">Hi there, my name is Alban, I'm a French web full stack developper 👋</h1>
 
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=alban-care&show_icons=true&locale=en&theme=tokyonight" alt="My github contribution activity" /></p>
+<!-- align on the same row -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alban-care&show_icons=true&locale=en&theme=tokyonight" alt="My github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alban-care&show_icons=true&locale=en&theme=tokyonight" alt="My github stats" />
+</p>
 
 ### ⭐️ Languages & Frameworks & Skills:
 
@@ -34,6 +39,8 @@
 
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alban-care&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="My github stats" /></p>
 
 ## </> Backend (Full App & RESTFul APIs):
 
@@ -97,5 +104,12 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+<!-- <p>&nbsp;<img align="left" src="https://readmestats.999857.xyz/api?username=alban-care&show_icons=true&locale=en&theme=tokyonight" alt="My github contribution activity" /></p> -->
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux)](https://skillicons.dev) -->
 <!-- https://github.com/tandpfun/skill-icons#icons-list -->
+
+... and more to come ! 🚀
+
+### 📫 How to reach me:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Alban%20Care-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alban-care/)
