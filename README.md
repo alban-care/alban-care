@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alban-care&show_icons=true&locale=en&theme=tokyonight" alt="My github stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alban-care&show_icons=true&locale=en&theme=tokyonight" alt="My github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alban-care&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="My github stats" />
 </p>
 
 ### ⭐️ Languages & Frameworks & Skills:
@@ -40,7 +41,6 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alban-care&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="My github stats" /></p>
 
 ## </> Backend (Full App & RESTFul APIs):
 
